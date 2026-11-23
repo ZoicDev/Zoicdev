@@ -2,7 +2,7 @@
 
 ### Developer · Product Builder
 
-https://i.ibb.co/M5k1BXFc/Nighttime-Coder-s-Animated-Workspace.gif
+![Nighttime Coder](https://i.ibb.co/M5k1BXFc/Nighttime-Coder-s-Animated-Workspace.gif)
 
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=4000&pause=1400&color=7A7A7A&center=true&vCenter=true&width=600&height=40&lines=Building+with+curiosity;Creating+things+that+matter;Learning+through+building;Software+%26+product;One+idea+at+a+time)
 
