@@ -2,7 +2,7 @@
 
 ### Developer · Product Builder
 
-![Zoic Coding Banner](zoic_coding_banner_loop_optimized.gif)
+https://chatgpt.com/backend-api/estuary/public_content/enc/eyJpZCI6Im1fNmIwMzg1MzVmZGM0ODE5MWE0ZjdmYzk2ZDFmYmM3OTY6ZmlsZV8wMDAwMDAwMGY4MGM4MjExODQ1MjYxY2FmYmJhYzA1MiIsImdpem1vX2lkIjpudWxsLCJ3aWQiOm51bGwsIm9pZCI6bnVsbCwic2lkIjpudWxsLCJjcyI6bnVsbCwiZm4iOm51bGwsImNkIjpudWxsLCJ0cyI6IjIwNzgwIiwicCI6InB5aSIsImNpZCI6IjEiLCJzaWciOiI5NjRmODdkMzkyYmNjNThkYjM4Zjg4MTdjZTY3NTM4NmE2YTkzODA3ZjVjYTU1YzQ5NzAyYjg1MjZlZjAzMjIyIiwidiI6IjAiLCJjZG4iOm51bGwsImNwIjpudWxsLCJtYSI6bnVsbH0=
 
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=4000&pause=1400&color=7A7A7A&center=true&vCenter=true&width=600&height=40&lines=Building+with+curiosity;Creating+things+that+matter;Learning+through+building;Software+%26+product;One+idea+at+a+time)
 
